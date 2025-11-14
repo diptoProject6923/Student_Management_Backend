@@ -1,5 +1,5 @@
 
-A simple and secure Student Management REST API** built with **Spring Boot.  
+A simple and secure Student Management REST API built with Spring Boot.  
 This project includes Role-Based Authentication, Authorization, and full CRUD functionality.
 
 -----------------------------------
